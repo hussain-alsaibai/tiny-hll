@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](tiny_hll.py)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/hussain-alsaibai/tiny-hll)
+[![CI](https://github.com/hussain-alsaibai/tiny-hll/actions/workflows/ci.yml/badge.svg)](https://github.com/hussain-alsaibai/tiny-hll/actions/workflows/ci.yml)
 
 Count distinct items in **fixed, tiny memory** - about 1.6KB by default,
 regardless of whether you have seen a thousand items or a billion.
